@@ -460,6 +460,10 @@
         "source": "C:\\Users\\LENOVO\\.gradle\\caches\\transforms-2\\files-2.1\\37ec02f661e3547c5499ecdfd9f3cd1f\\appcompat-1.1.0\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
+        "merged": "D:\\AndroidJava\\AndroidExpert\\WidgetHomeScreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dicoding_logo_full.png.flat",
+        "source": "D:\\AndroidJava\\AndroidExpert\\WidgetHomeScreen\\app\\src\\main\\res\\drawable\\dicoding_logo_full.png"
+    },
+    {
         "merged": "D:\\AndroidJava\\AndroidExpert\\WidgetHomeScreen\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_go_search_api_material.xml.flat",
         "source": "C:\\Users\\LENOVO\\.gradle\\caches\\transforms-2\\files-2.1\\37ec02f661e3547c5499ecdfd9f3cd1f\\appcompat-1.1.0\\res\\drawable\\abc_ic_go_search_api_material.xml"
     },

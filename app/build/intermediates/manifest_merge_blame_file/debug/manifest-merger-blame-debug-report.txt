@@ -11,7 +11,7 @@
 9-->D:\AndroidJava\AndroidExpert\WidgetHomeScreen\app\src\main\AndroidManifest.xml
 10
 11    <application
-11-->D:\AndroidJava\AndroidExpert\WidgetHomeScreen\app\src\main\AndroidManifest.xml:5:5-29:19
+11-->D:\AndroidJava\AndroidExpert\WidgetHomeScreen\app\src\main\AndroidManifest.xml:5:5-33:19
 12        android:allowBackup="true"
 12-->D:\AndroidJava\AndroidExpert\WidgetHomeScreen\app\src\main\AndroidManifest.xml:6:9-35
 13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -60,6 +60,17 @@
 36                android:resource="@xml/random_number_widget_info" />
 36-->D:\AndroidJava\AndroidExpert\WidgetHomeScreen\app\src\main\AndroidManifest.xml:27:17-66
 37        </receiver>
-38    </application>
-39
-40</manifest>
+38
+39        <service
+39-->D:\AndroidJava\AndroidExpert\WidgetHomeScreen\app\src\main\AndroidManifest.xml:29:9-32:71
+40            android:name="com.example.widgethomescreen.UpdateWidgetService"
+40-->D:\AndroidJava\AndroidExpert\WidgetHomeScreen\app\src\main\AndroidManifest.xml:29:18-53
+41            android:enabled="true"
+41-->D:\AndroidJava\AndroidExpert\WidgetHomeScreen\app\src\main\AndroidManifest.xml:30:13-35
+42            android:exported="true"
+42-->D:\AndroidJava\AndroidExpert\WidgetHomeScreen\app\src\main\AndroidManifest.xml:31:13-36
+43            android:permission="android.permission.BIND_JOB_SERVICE" />
+43-->D:\AndroidJava\AndroidExpert\WidgetHomeScreen\app\src\main\AndroidManifest.xml:32:13-69
+44    </application>
+45
+46</manifest>

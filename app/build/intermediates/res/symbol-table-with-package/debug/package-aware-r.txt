@@ -686,6 +686,7 @@ drawable btn_radio_off_mtrl
 drawable btn_radio_off_to_on_mtrl_animation
 drawable btn_radio_on_mtrl
 drawable btn_radio_on_to_off_mtrl_animation
+drawable dicoding_logo_full
 drawable example_appwidget_preview
 drawable ic_launcher_background
 drawable ic_launcher_foreground
@@ -771,6 +772,8 @@ id beginning
 id blocking
 id bottom
 id buttonPanel
+id button_start
+id button_stop
 id center_vertical
 id chains
 id checkbox
@@ -971,8 +974,12 @@ string abc_toolbar_collapse_description
 string add_widget
 string app_name
 string appwidget_text
+string generate
+string random
 string search_menu_title
+string start_update
 string status_bar_notification_info_overflow
+string stop_update
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light
 style Animation_AppCompat_Dialog
