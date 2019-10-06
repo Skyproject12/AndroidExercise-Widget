@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F1D2C8</color>
+    <color name="colorPrimaryDark">#DFB8AC</color>
+    <color name="colorAccent">#F68487</color>
+
+    <color name="Primary">#B3C100</color>
+    <color name="PrimaryDark">#86AC41</color>
+    <color name="Accent">#B3C100</color>
+
+    <color name="colorOrange200">#FFAB91</color>
+    <color name="colorAbuSoft">#EEEEEE</color>
+    <color name="colorRed200">#FFAB91</color>
+    <color name="colorMediumOrange">#FFAB91</color>
+
+    <color name="colorHardOrange">#FFAB91</color>
+    <color name="colorSoftOrange">#f98866</color>
+    <color name="colorHardYellow">#c2931f</color>
+
+    <color name="buttonNotPressed">#00999999</color>
+    <color name="buttonPressed">#cedcdada</color>
+
+
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="mist">#B3C100</color>
+    <color name="transparent">#00000000</color>
+    <color name="hijau">#B3C100</color>
+    <color name="biru">#3B5999</color>
+
+    <!--    for intro page-->
+    <color name="dot_dark_screen1">#d1395c</color>
+    <color name="dot_dark_screen2">#14a895</color>
+    <color name="dot_dark_screen3">#2278d4</color>
+    <color name="dot_dark_screen4">#a854d4</color>
+
+    <color name="dot_light_screen1">#f98da5</color>
+    <color name="dot_light_screen2">#8cf9eb</color>
+    <color name="dot_light_screen3">#93c6fd</color>
+    <color name="dot_light_screen4">#e4b5fc</color>
+
+    <color name="colorBrow">#6D5555</color>
+</resources>
