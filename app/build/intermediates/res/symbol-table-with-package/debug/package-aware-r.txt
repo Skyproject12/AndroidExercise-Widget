@@ -772,6 +772,7 @@ id beginning
 id blocking
 id bottom
 id buttonPanel
+id button_click
 id button_start
 id button_stop
 id center_vertical
